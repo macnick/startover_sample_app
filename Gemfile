@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails',                 '>=5.1.6'
+gem 'rails',                 '>=5.2.4'
 gem 'actionview',         '>= 5.1.6.2'
 gem "activejob",          '>= 5.1.6.1'
 gem 'bcrypt',                 '3.1.12'
