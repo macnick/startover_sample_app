@@ -255,6 +255,7 @@ GEM
     guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
+    hirb (0.7.3)
     http-accept (1.7.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
@@ -432,6 +433,7 @@ DEPENDENCIES
   fog (= 1.42)
   guard (= 2.14.1)
   guard-minitest (= 2.4.6)
+  hirb
   jbuilder (= 2.7.0)
   jquery-rails (= 4.3.1)
   listen (= 3.1.5)
