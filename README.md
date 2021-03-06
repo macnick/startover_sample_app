@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial sample application (take 2)
 
-This is the sample application from
+This is the sample application for
 [_Ruby on Rails Tutorial:
 Learn Web Development with Rails_](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
